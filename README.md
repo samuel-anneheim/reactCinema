@@ -1,3 +1,8 @@
+# Detail de l'app
+
+Application qui propose les films à l'affiche d'un cinéma en utilisant les fonctionnalités React 
+Une dépendance a été ajouté :react router dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

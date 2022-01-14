@@ -1,0 +1,16 @@
+nav{
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(41, 41, 41);
+    
+}
+
+nav>a{
+    color: inherit;
+    color: #fff;
+    font-size: 20px;
+}

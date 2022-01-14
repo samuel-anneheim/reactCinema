@@ -1,0 +1,9 @@
+.details{
+    width: 80vw;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
